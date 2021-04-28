@@ -26,6 +26,6 @@
         <project path="u-boot"               name="u-boot.git" revision="refs/tags/v2021.04" remote="u-boot" clone-depth="1" />
 
 	<!-- MS fTPM -->
-	<project name="microsoft/ms-tpm-20-ref.git" path="ms-tpm-20-ref"  revision="98b60a44aba79b15fcce1c0d1e46cf5918400f6a" upstream="ftpm"/>
+	<project name="jbech-linaro/ms-tpm-20-ref.git" path="ms-tpm-20-ref"  revision="2454dabf3dc8d46908bf8035faa0b2905e7b8530" upstream="ftpm"/>
 	<project name="jbech-linaro/ibmtpm20tss.git" path="ibmtpm20tss" revision="44bcc16816abae86c7780884f8380a7133f97781" upstream="ftpm" />
 </manifest>
